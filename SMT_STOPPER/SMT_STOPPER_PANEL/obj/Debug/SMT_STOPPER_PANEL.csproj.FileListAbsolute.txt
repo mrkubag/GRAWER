@@ -1,0 +1,31 @@
+C:\Users\MrKub\Desktop\Inzynierka\PCB\WIN_prog\SMT_STOPPER\SMT_STOPPER_PANEL\bin\Debug\SMT_STOPPER_PANEL.exe.config
+C:\Users\MrKub\Desktop\Inzynierka\PCB\WIN_prog\SMT_STOPPER\SMT_STOPPER_PANEL\bin\Debug\SMT_STOPPER_PANEL.exe
+C:\Users\MrKub\Desktop\Inzynierka\PCB\WIN_prog\SMT_STOPPER\SMT_STOPPER_PANEL\bin\Debug\SMT_STOPPER_PANEL.pdb
+C:\Users\MrKub\Desktop\Inzynierka\PCB\WIN_prog\SMT_STOPPER\SMT_STOPPER_PANEL\obj\Debug\SMT_STOPPER_PANEL.csproj.AssemblyReference.cache
+C:\Users\MrKub\Desktop\Inzynierka\PCB\WIN_prog\SMT_STOPPER\SMT_STOPPER_PANEL\obj\Debug\SMT_STOPPER_PANEL.Form1.resources
+C:\Users\MrKub\Desktop\Inzynierka\PCB\WIN_prog\SMT_STOPPER\SMT_STOPPER_PANEL\obj\Debug\SMT_STOPPER_PANEL.Properties.Resources.resources
+C:\Users\MrKub\Desktop\Inzynierka\PCB\WIN_prog\SMT_STOPPER\SMT_STOPPER_PANEL\obj\Debug\SMT_STOPPER_PANEL.csproj.GenerateResource.cache
+C:\Users\MrKub\Desktop\Inzynierka\PCB\WIN_prog\SMT_STOPPER\SMT_STOPPER_PANEL\obj\Debug\SMT_STOPPER_PANEL.csproj.CoreCompileInputs.cache
+C:\Users\MrKub\Desktop\Inzynierka\PCB\WIN_prog\SMT_STOPPER\SMT_STOPPER_PANEL\obj\Debug\SMT_STOPPER_PANEL.exe
+C:\Users\MrKub\Desktop\Inzynierka\PCB\WIN_prog\SMT_STOPPER\SMT_STOPPER_PANEL\obj\Debug\SMT_STOPPER_PANEL.pdb
+C:\Users\MrKub\Desktop\Inzynierka\PROJEKT\WIN_prog\SMT_STOPPER\SMT_STOPPER_PANEL\bin\Debug\SMT_STOPPER_PANEL.exe.config
+C:\Users\MrKub\Desktop\Inzynierka\PROJEKT\WIN_prog\SMT_STOPPER\SMT_STOPPER_PANEL\bin\Debug\SMT_STOPPER_PANEL.exe
+C:\Users\MrKub\Desktop\Inzynierka\PROJEKT\WIN_prog\SMT_STOPPER\SMT_STOPPER_PANEL\bin\Debug\SMT_STOPPER_PANEL.pdb
+C:\Users\MrKub\Desktop\Inzynierka\PROJEKT\WIN_prog\SMT_STOPPER\SMT_STOPPER_PANEL\obj\Debug\SMT_STOPPER_PANEL.csproj.AssemblyReference.cache
+C:\Users\MrKub\Desktop\Inzynierka\PROJEKT\WIN_prog\SMT_STOPPER\SMT_STOPPER_PANEL\obj\Debug\SMT_STOPPER_PANEL.Form1.resources
+C:\Users\MrKub\Desktop\Inzynierka\PROJEKT\WIN_prog\SMT_STOPPER\SMT_STOPPER_PANEL\obj\Debug\SMT_STOPPER_PANEL.Properties.Resources.resources
+C:\Users\MrKub\Desktop\Inzynierka\PROJEKT\WIN_prog\SMT_STOPPER\SMT_STOPPER_PANEL\obj\Debug\SMT_STOPPER_PANEL.csproj.GenerateResource.cache
+C:\Users\MrKub\Desktop\Inzynierka\PROJEKT\WIN_prog\SMT_STOPPER\SMT_STOPPER_PANEL\obj\Debug\SMT_STOPPER_PANEL.csproj.CoreCompileInputs.cache
+C:\Users\MrKub\Desktop\Inzynierka\PROJEKT\WIN_prog\SMT_STOPPER\SMT_STOPPER_PANEL\obj\Debug\SMT_STOPPER_PANEL.exe
+C:\Users\MrKub\Desktop\Inzynierka\PROJEKT\WIN_prog\SMT_STOPPER\SMT_STOPPER_PANEL\obj\Debug\SMT_STOPPER_PANEL.pdb
+C:\Users\jakubgrze\OneDrive - MIKRONIKA\Pulpit\Inzynierka\PROJEKT\WIN_prog\SMT_STOPPER\SMT_STOPPER_PANEL\bin\Debug\SMT_STOPPER_PANEL.exe.config
+C:\Users\jakubgrze\OneDrive - MIKRONIKA\Pulpit\Inzynierka\PROJEKT\WIN_prog\SMT_STOPPER\SMT_STOPPER_PANEL\bin\Debug\SMT_STOPPER_PANEL.exe
+C:\Users\jakubgrze\OneDrive - MIKRONIKA\Pulpit\Inzynierka\PROJEKT\WIN_prog\SMT_STOPPER\SMT_STOPPER_PANEL\bin\Debug\SMT_STOPPER_PANEL.pdb
+C:\Users\jakubgrze\OneDrive - MIKRONIKA\Pulpit\Inzynierka\PROJEKT\WIN_prog\SMT_STOPPER\SMT_STOPPER_PANEL\obj\Debug\SMT_STOPPER_PANEL.csproj.AssemblyReference.cache
+C:\Users\jakubgrze\OneDrive - MIKRONIKA\Pulpit\Inzynierka\PROJEKT\WIN_prog\SMT_STOPPER\SMT_STOPPER_PANEL\obj\Debug\SMT_STOPPER_PANEL.exe.config
+C:\Users\jakubgrze\OneDrive - MIKRONIKA\Pulpit\Inzynierka\PROJEKT\WIN_prog\SMT_STOPPER\SMT_STOPPER_PANEL\obj\Debug\SMT_STOPPER_PANEL.Form1.resources
+C:\Users\jakubgrze\OneDrive - MIKRONIKA\Pulpit\Inzynierka\PROJEKT\WIN_prog\SMT_STOPPER\SMT_STOPPER_PANEL\obj\Debug\SMT_STOPPER_PANEL.Properties.Resources.resources
+C:\Users\jakubgrze\OneDrive - MIKRONIKA\Pulpit\Inzynierka\PROJEKT\WIN_prog\SMT_STOPPER\SMT_STOPPER_PANEL\obj\Debug\SMT_STOPPER_PANEL.csproj.GenerateResource.cache
+C:\Users\jakubgrze\OneDrive - MIKRONIKA\Pulpit\Inzynierka\PROJEKT\WIN_prog\SMT_STOPPER\SMT_STOPPER_PANEL\obj\Debug\SMT_STOPPER_PANEL.csproj.CoreCompileInputs.cache
+C:\Users\jakubgrze\OneDrive - MIKRONIKA\Pulpit\Inzynierka\PROJEKT\WIN_prog\SMT_STOPPER\SMT_STOPPER_PANEL\obj\Debug\SMT_STOPPER_PANEL.exe
+C:\Users\jakubgrze\OneDrive - MIKRONIKA\Pulpit\Inzynierka\PROJEKT\WIN_prog\SMT_STOPPER\SMT_STOPPER_PANEL\obj\Debug\SMT_STOPPER_PANEL.pdb
