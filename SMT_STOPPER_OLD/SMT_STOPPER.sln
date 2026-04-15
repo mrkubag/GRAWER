@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35514.174
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SMT_STOPPER_PANEL", "SMT_STOPPER_PANEL\SMT_STOPPER_PANEL.csproj", "{3085F483-7384-4D90-A3E7-0C5FABE37842}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SMT_STOPPER_RELEASE", "SMT_STOPPER_RELEASE\SMT_STOPPER_RELEASE.csproj", "{27FD9749-2A76-4484-B65F-7F13E1CFA97D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SendKeys", "..\..\SendKeys-master\SendKeys\SendKeys.csproj", "{2DDDA3FE-1A5C-4AAC-9380-9F40C2286583}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SMT_STOPPER_RELEASE_LITE", "SMT_STOPPER_RELEASE_LITE\SMT_STOPPER_RELEASE_LITE.csproj", "{BE7AF6B8-9BC2-46B5-93A2-930814B19885}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MySqlTest", "MySqlTest\MySqlTest.csproj", "{7E57EA10-8703-4170-9182-4AA59FB7D2F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3085F483-7384-4D90-A3E7-0C5FABE37842}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3085F483-7384-4D90-A3E7-0C5FABE37842}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3085F483-7384-4D90-A3E7-0C5FABE37842}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3085F483-7384-4D90-A3E7-0C5FABE37842}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27FD9749-2A76-4484-B65F-7F13E1CFA97D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27FD9749-2A76-4484-B65F-7F13E1CFA97D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27FD9749-2A76-4484-B65F-7F13E1CFA97D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27FD9749-2A76-4484-B65F-7F13E1CFA97D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DDDA3FE-1A5C-4AAC-9380-9F40C2286583}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DDDA3FE-1A5C-4AAC-9380-9F40C2286583}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DDDA3FE-1A5C-4AAC-9380-9F40C2286583}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DDDA3FE-1A5C-4AAC-9380-9F40C2286583}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE7AF6B8-9BC2-46B5-93A2-930814B19885}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE7AF6B8-9BC2-46B5-93A2-930814B19885}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE7AF6B8-9BC2-46B5-93A2-930814B19885}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE7AF6B8-9BC2-46B5-93A2-930814B19885}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E57EA10-8703-4170-9182-4AA59FB7D2F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E57EA10-8703-4170-9182-4AA59FB7D2F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E57EA10-8703-4170-9182-4AA59FB7D2F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E57EA10-8703-4170-9182-4AA59FB7D2F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5EEF8108-B7C3-43AB-8523-6F7659EA2E37}
+	EndGlobalSection
+EndGlobal
